@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bammytech1
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Web Designing, Frontend implimentation
 - 📫 How to reach me bammytech1@gmail.com
 
